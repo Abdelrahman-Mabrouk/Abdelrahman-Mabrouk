@@ -67,6 +67,6 @@ Hi there! I'm **Abdelrahman Mabrouk**, a passionate **Software Engineer** with a
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abdelrahman-Mabrouk/Abdelrahman-Mabrouk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abdelrahman-Mabrouk/Abdelrahman-Mabrouk/output/[snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Snake animation" />
 
 ###
