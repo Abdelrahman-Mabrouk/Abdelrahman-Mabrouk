@@ -1,5 +1,20 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Welcome to My GitHub Profile! 👋
 
+Hi there! I'm **Abdelrahman Mabrouk**, a passionate **Software Engineer** with a keen interest in **Mobile Development, Web Development, Problem Solving, and Coding**. I love creating impactful projects and solving real-world problems through code.
+
+## 🌟 About Me  
+- 🔭 I’m currently working on: **My final-year project and building creative apps with Flutter**  
+- 🌱 I’m currently learning: **Flutter, Databases, and Analysis and Design of Software**  
+- 👯 I’m looking to collaborate on: **Innovative projects that challenge my skills and involve mobile development or web development**  
+- 💬 Ask me about: **Flutter, Dart, and software engineering principles**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdelrahman-mabrouk-2b579026b)**  
+- ⚡ Fun fact: **I love solving challenging programming problems and can balance work while enjoying a game of cards with the Quran in the background!**
+-
+## 🚀 My Skills  
+- **Languages:** C++, Dart, Java, Python  
+- **Frameworks & Tools:** Flutter, Android Studio, Visual Studio Code, Git, GitHub  
+- **Other Expertise:** UI/UX Design, Project Collaboration, Problem-Solving Algorithms
+- Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech! 🚀
 ###
 
 <div align="center">
