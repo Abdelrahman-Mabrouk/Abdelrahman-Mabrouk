@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=000000&background=9153FF01&center=true&vCenter=true&width=435&lines=%D9%90%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85+%D9%88%D8%B1%D8%AD%D9%85%D8%A9+%D8%A7%D9%84%D9%84%D9%87+%D9%88%D8%A8%D8%B1%D9%83%D8%A7%D8%AA%D9%87+;+Welcome+to+my+world+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=1000&color=000000&background=9153FF01&center=true&vCenter=true&width=1000&height=200&lines=%D9%90%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85+%D9%88%D8%B1%D8%AD%D9%85%D8%A9+%D8%A7%D9%84%D9%84%D9%87+%D9%88%D8%A8%D8%B1%D9%83%D8%A7%D8%AA%D9%87+;+Hi+there!+I'm+Abdelrahman+Mabrouk+%F0%9F%98%8A;Software+Engineer+)](https://git.io/typing-svg)
 #
 Hi there! I'm **Abdelrahman Mabrouk**, a passionate **Software Engineer** with a keen interest in **Mobile Development, Web Development, Problem Solving, and Coding**. I love creating impactful projects and solving real-world problems through code.
 
