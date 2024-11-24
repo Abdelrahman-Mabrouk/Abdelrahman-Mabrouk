@@ -69,6 +69,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abdelrahman-Mabrouk/Abdelrahman-Mabrouk/output/github-contribution-grid-snake.svg?" alt="Snake animation" />
 
 ###
